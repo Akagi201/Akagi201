@@ -1,16 +1,18 @@
-### Hi there 👋
+# Akagi201(Bob Liu)
 
-<!--
-**Akagi201/Akagi201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interested in
+- Security And Finance Theory.
+- Blockchain Technology, especially in Solana.
+- Trading theory and robot trading.
+- Robot and automation toys.
+- Everything that is very cool.
 
-Here are some ideas to get you started:
+## Not interested in
+- Headhunter.
+- Looking for a job.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contract me
+- [telegram](https://t.me/Akagi201)
+- [email](akagi201@gmail.com)
+
+[![Akagi201's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akagi201)](https://github.com/Akagi201)

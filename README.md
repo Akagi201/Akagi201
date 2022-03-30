@@ -12,7 +12,7 @@
 | Framework        	| React, Next.js, Flutter                                                            	|
 
 <br/>
-  <a href="https://github.com/Akagi201"><img alt="Akagi201's Github Stats" src="https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/overview.svg" /></a>
+  <a href="https://github.com/Akagi201"><img alt="Akagi201's Github Stats" src="https://raw.githubusercontent.com/Akagi201/github-stats/master/generated/overview.svg" /></a>
   <a href="https://github.com/Akagi201"><img alt="Akagi201's Top Languages" src="https://raw.githubusercontent.com/Akagi201/github-stats/master/generated/languages.svg" /></a>
 <br/>
 

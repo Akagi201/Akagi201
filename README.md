@@ -1,3 +1,5 @@
+[![Visitors](https://api.visitorbadge.io/api/daily?path=Akagi201%2FAkagi201&label=Visitors%20Today&countColor=%2337d67a)](https://visitorbadge.io/status?path=Akagi201%2FAkagi201)
+
 # Tech Stack
 
 | Property         	| Data                                                                               	|

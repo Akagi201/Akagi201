@@ -1,5 +1,7 @@
 [![Visitors](https://api.visitorbadge.io/api/daily?path=Akagi201%2FAkagi201&label=Visitors%20Today&countColor=%2337d67a)](https://visitorbadge.io/status?path=Akagi201%2FAkagi201)
 
+I like programming and keeping learning new technologies. [here](https://github.com/Akagi201/blockchain) lists some of my certificates.
+
 # Tech Stack
 
 | Property         	| Data                                                                               	|

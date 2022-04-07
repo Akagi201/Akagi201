@@ -6,11 +6,13 @@ I like programming and keeping learning new technologies. [here](https://github.
 
 | Property         	| Data                                                                               	|
 |------------------	|------------------------------------------------------------------------------------	|
-| Language         	| Rust, Go, TypeScript, Solidity, Python                                             	|
+| Language         	| Rust, Go, C/C++, TypeScript, Solidity, Python                                       |
 | Domain Knowledge 	| Blockchain, Securities, Quant Trading, Embedded Linux, Streaming Media, Kubernetes 	|
-| Database         	| Postgresql, Redis, TimescaleDB                                                     	|
-| OS               	| MacOS,  Manjaro Linux Desktop, Ubuntu Server                                       	|
+| Blockchain        | Bitcoin, Ethereum, Substrate, Solana, Near, Dfinity, Flow                           |
+| Database         	| Postgresql, Redis, TimescaleDB, Meilisearch                                         |
+| OS               	| MacOS, Manjaro Linux Desktop, Ubuntu Server                                       	|
 | Editor           	| VsCode, VIM                                                                        	|
+| Terminal          | Warp + Oh My Zsh                                                                    |
 | Note             	| Notion, Lark Document                                                              	|
 | IM               	| Lark, Telegram, Discord                                                            	|
 | Framework        	| React, Next.js, Flutter                                                            	|

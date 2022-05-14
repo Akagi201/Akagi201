@@ -27,6 +27,6 @@ I like programming and keeping learning new technologies. [here](https://github.
   <a href="https://www.codewars.com/users/Akagi201"><img alt="Akagi201's Codewars" src="https://www.codewars.com/users/Akagi201/badges/large"></a>
 <br/>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Akagi201/Akagi201/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Akagi201/Akagi201/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+[![github contribution grid snake animation](https://raw.githubusercontent.com/Akagi201/Akagi201/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Akagi201)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Akagi201&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Akagi201&layout=wide)](https://twitter.com/Akagi201)

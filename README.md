@@ -21,8 +21,9 @@ I like programming and keeping learning new technologies. [here](https://github.
 
 <details>
 <summary>GitHub Stats</summary>
-  <a href="https://github.com/Akagi201"><img alt="Akagi201's Github Stats" src="https://raw.githubusercontent.com/Akagi201/github-stats/master/generated/overview.svg" /></a>
-  <a href="https://github.com/Akagi201"><img alt="Akagi201's Top Languages" src="https://raw.githubusercontent.com/Akagi201/github-stats/master/generated/languages.svg" /></a>
+  <a href="https://github.com/Akagi201"><img alt="Profile Detail" src="https://raw.githubusercontent.com/Akagi201/Akagi201/master/profile-summary-card-output/dracula/0-profile-details.svg" /></a>
+  <a href="https://github.com/Akagi201"><img alt="Github Stats" src="https://raw.githubusercontent.com/Akagi201/Akagi201/master/profile-summary-card-output/dracula/3-stats.svg" /></a>
+  <a href="https://github.com/Akagi201"><img alt="Lang By Commits" src="https://raw.githubusercontent.com/Akagi201/Akagi201/master/profile-summary-card-output/dracula/2-most-commit-language.svg" /></a>
 </details>
 
 <details>

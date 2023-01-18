@@ -31,7 +31,7 @@ I like programming and keeping learning new technologies. [here](https://github.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%205%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -86,7 +86,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2023 15:34:57 UTC
+ Last Updated on 18/01/2023 15:35:22 UTC
 <!--END_SECTION:waka-->
 
 </details>

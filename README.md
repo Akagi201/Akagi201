@@ -62,14 +62,13 @@ Sunday       45 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-sh                       2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               ███████████████████░░░░░░   79.42% 
-Mac                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.58%
+No Activity Tracked This Week
 
 ```
 
@@ -86,7 +85,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2023 15:35:16 UTC
+ Last Updated on 24/01/2023 15:36:30 UTC
 <!--END_SECTION:waka-->
 
 </details>

@@ -33,20 +33,20 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 14 June 2023
+From: 08 June 2023 - To: 15 June 2023
 
-Total Time: 89 hrs 22 mins
+Total Time: 89 hrs 28 mins
 
-Other             59 hrs 18 mins  ████████████████▓░░░░░░░░   66.36 %
-Rust              12 hrs 23 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
-sh                10 hrs 27 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-Solidity          2 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Other             59 hrs 5 mins   ████████████████▓░░░░░░░░   66.04 %
+Rust              11 hrs 53 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+sh                10 hrs 45 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+Solidity          2 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 Go                1 hr 23 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Markdown          1 hr 16 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-TOML              1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-YAML              21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-TypeScript        14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Protocol Buffer   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Markdown          1 hr 16 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+TOML              1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+YAML              22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+TypeScript        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JSON              13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->

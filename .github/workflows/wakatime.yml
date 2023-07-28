@@ -20,8 +20,6 @@ jobs:
           COMMIT_MESSAGE: Update Wakatime Stats
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.org
-          AUTHOR_NAME: Akagi201
-          AUTHOR_EMAIL: akagi201@gmail.com
 
       # - uses: anmol098/waka-readme-stats@master
       #   with:

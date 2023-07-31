@@ -33,13 +33,13 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 July 2023 - To: 29 July 2023
+From: 23 July 2023 - To: 30 July 2023
 
-Total Time: 49 hrs 28 mins
+Total Time: 49 hrs 23 mins
 
-Other        38 hrs 39 mins  ███████████████████▓░░░░░   78.15 %
-Rust         7 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-sh           1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Other        38 hrs 34 mins  ███████████████████▓░░░░░   78.11 %
+Rust         7 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+sh           1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 Markdown     46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 TOML         39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 Solidity     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %

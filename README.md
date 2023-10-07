@@ -33,18 +33,16 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2023 - To: 05 October 2023
+From: 29 September 2023 - To: 06 October 2023
 
-Total Time: 21 hrs 6 mins
+Total Time: 20 hrs 14 mins
 
-Other       20 hrs 55 mins  ████████████████████████▓   99.13 %
-sh          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Markdown    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-GDScript3   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-JSON        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-TOML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Solidity    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-TSConfig    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other      20 hrs 9 mins   █████████████████████████   99.60 %
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+sh         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Solidity   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

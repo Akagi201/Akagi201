@@ -33,20 +33,11 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2023 - To: 19 November 2023
+From: 13 November 2023 - To: 20 November 2023
 
-Total Time: 39 hrs 52 mins
+Total Time: 42 hrs 20 mins
 
-Other        20 hrs 53 mins  █████████████░░░░░░░░░░░░   52.40 %
-Python       7 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
-Rust         5 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-sh           3 hrs 57 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-YAML         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-TOML         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Markdown     21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Docker       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Solidity     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -33,20 +33,20 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
-Total Time: 60 hrs 53 mins
+Total Time: 57 hrs 58 mins
 
-Other        47 hrs 8 mins   ███████████████████▒░░░░░   77.43 %
-Rust         6 hrs 59 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-sh           4 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-TypeScript   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Markdown     34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-TOML         22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Makefile     19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Docker       11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-YAML         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other        41 hrs 11 mins  █████████████████▓░░░░░░░   71.06 %
+Rust         8 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+sh           5 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+TypeScript   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Go           33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Markdown     32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+TOML         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Makefile     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Docker       11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+YAML         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->

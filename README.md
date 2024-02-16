@@ -33,20 +33,20 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2024 - To: 14 February 2024
+From: 08 February 2024 - To: 15 February 2024
 
-Total Time: 50 hrs 45 mins
+Total Time: 47 hrs 58 mins
 
-Other                      42 hrs 23 mins  █████████████████████░░░░   83.52 %
-sh                         3 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Solidity                   2 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Nginx configuration file   47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Markdown                   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-TOML                       16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Rust                       11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Lua                        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-YAML                       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Bash                       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other                      41 hrs 52 mins  █████████████████████▓░░░   87.31 %
+sh                         3 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+Nginx configuration file   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Markdown                   18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TOML                       17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Rust                       14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Solidity                   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Lua                        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Bash                       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+YAML                       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->

@@ -7,15 +7,16 @@ I like programming and keeping learning new technologies. [here](https://github.
 
 | Property         	| Data                                                                               	|
 |------------------	|------------------------------------------------------------------------------------	|
-| Language         	| Rust, Go, C/C++, TypeScript, Python, Solidity, Move                                 |
-| Domain Knowledge 	| Blockchain, Securities, Quant Trading, Embedded Linux, Streaming Media, Kubernetes 	|
-| Database         	| Postgresql, Redis, Sqlite, TimescaleDB, Meilisearch                                 |
+| Language         	| Rust, Go, C/C++, TypeScript, Python, Contract                                       |
+| Domain Knowledge 	| Blockchain, Securities, HFT, Embedded Linux, Streaming Media, Kubernetes            |
+| Database         	| Postgresql, Redis, Quickwit                                                         |
+| DevOps            | OpenObserve, otel-collector                                                         |
 | OS               	| MacOS, ArchLinux, Ubuntu Server                                                     |
-| Editor           	| VsCode, VIM                                                                        	|
-| Terminal          | Iterm2, Oh My Zsh, Tmux, Starship                                                   |
-| Note             	| Notion, Feedbro                                                                    	|
+| Editor           	| VsCode, Helix                                                                       |
+| Terminal          | WezTerm, Oh My Zsh, Tmux, Starship                                                  |
+| Read/Note         | Notion, Feedbro, TidyRead, Miniflux                                                 |
 | IM               	| Slack, Telegram, Discord                                                            |
-| Framework         | React, Nest.js, Next.js, Flutter                                                   	|
+| Frontend          | React, Next.js                                                                      |
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/Akagi201/Akagi201/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Akagi201)
 

@@ -9,12 +9,12 @@ I like programming and keeping learning new technologies. [here](https://github.
 |------------------	|------------------------------------------------------------------------------------	|
 | Language         	| Rust, Go, C/C++, TypeScript, Python, Contract                                       |
 | Domain Knowledge 	| Blockchain, Securities, HFT, Embedded Linux, Streaming Media, Kubernetes            |
-| Database         	| Postgresql, Redis, Quickwit                                                         |
-| DevOps            | OpenObserve, otel-collector                                                         |
+| Database         	| Postgresql, Redis, NATS, Quickwit                                                   |
+| DevOps            | Systemd, OpenObserve, Vector, otel-collector                                        |
 | OS               	| MacOS, ArchLinux, Ubuntu Server                                                     |
 | Editor           	| VsCode, Helix                                                                       |
 | Terminal          | WezTerm, Oh My Zsh, Tmux, Starship                                                  |
-| Read/Note         | Notion, Feedbro, TidyRead, Miniflux                                                 |
+| Read/Note         | Notion, Obsidian, Feedbro, Miniflux, Omnivore                                       |
 | IM               	| Slack, Telegram, Discord                                                            |
 | Frontend          | React, Next.js                                                                      |
 

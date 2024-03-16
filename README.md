@@ -34,20 +34,20 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2024 - To: 14 March 2024
+From: 08 March 2024 - To: 15 March 2024
 
-Total Time: 20 hrs 17 mins
+Total Time: 23 hrs 20 mins
 
-Other      16 hrs 16 mins  ████████████████████░░░░░   80.19 %
-Rust       1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-sh         1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Markdown   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-YAML       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Docker     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-INI        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-TOML       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-XML        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other      19 hrs 48 mins  █████████████████████▒░░░   84.89 %
+sh         1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Rust       1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Markdown   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+YAML       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Docker     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+INI        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TOML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->

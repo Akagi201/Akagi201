@@ -9,7 +9,7 @@ I like programming and keeping learning new technologies. [here](https://github.
 |------------------	|------------------------------------------------------------------------------------	|
 | Language         	| Rust, Go, C/C++, TypeScript, Python, Contract                                       |
 | Domain Knowledge 	| Blockchain, Securities, HFT, Embedded Linux, Streaming Media, Kubernetes            |
-| Database         	| Postgresql, Redis, NATS, Quickwit                                                   |
+| Database         	| Postgresql, Redis, NATS, Meilisearch                                                   |
 | DevOps            | Systemd, OpenObserve, Vector, otel-collector                                        |
 | OS               	| MacOS, ArchLinux, Ubuntu Server                                                     |
 | Editor           	| VsCode, Helix                                                                       |

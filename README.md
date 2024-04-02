@@ -34,18 +34,18 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2024 - To: 31 March 2024
+From: 25 March 2024 - To: 01 April 2024
 
-Total Time: 35 hrs 28 mins
+Total Time: 35 hrs 51 mins
 
-Other        28 hrs 35 mins  ████████████████████░░░░░   80.63 %
-Rust         4 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-sh           1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Markdown     31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-TOML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Other        30 hrs 27 mins  █████████████████████▒░░░   84.93 %
+Rust         2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+sh           1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Markdown     36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+TOML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Makefile     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```

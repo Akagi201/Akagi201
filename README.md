@@ -34,19 +34,19 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2024 - To: 19 April 2024
+From: 13 April 2024 - To: 20 April 2024
 
-Total Time: 60 hrs 25 mins
+Total Time: 60 hrs 19 mins
 
-Other        35 hrs 50 mins  ██████████████▓░░░░░░░░░░   59.33 %
-Rust         15 hrs 56 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
-sh           3 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Solidity     2 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Markdown     1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Other        36 hrs 8 mins   ███████████████░░░░░░░░░░   59.92 %
+Rust         15 hrs 57 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
+sh           3 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Solidity     2 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Markdown     58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 Python       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 TOML         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-YAML         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+YAML         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 TypeScript   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 

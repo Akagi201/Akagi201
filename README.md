@@ -34,20 +34,20 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2024 - To: 23 June 2024
+From: 17 June 2024 - To: 24 June 2024
 
-Total Time: 38 hrs 6 mins
+Total Time: 36 hrs 49 mins
 
-Other      32 hrs 41 mins  █████████████████████▒░░░   85.78 %
-Rust       2 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-sh         1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Markdown   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-TOML       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Logos      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other      30 hrs 54 mins  █████████████████████░░░░   83.95 %
+Rust       2 hrs 40 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+sh         2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Markdown   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+TOML       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Logos      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Assembly   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Prisma     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

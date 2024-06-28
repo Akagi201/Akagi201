@@ -34,20 +34,20 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2024 - To: 26 June 2024
+From: 20 June 2024 - To: 27 June 2024
 
-Total Time: 36 hrs 13 mins
+Total Time: 33 hrs 25 mins
 
-Other         32 hrs 6 mins   ██████████████████████░░░   88.63 %
-sh            1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Rust          1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Markdown      36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-TOML          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Makefile      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Logos         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Assembly      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other         27 hrs 58 mins  █████████████████████░░░░   83.70 %
+sh            1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Rust          1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Markdown      1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+TOML          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Git Config    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Makefile      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Assembly      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Logos         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Devicetree    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

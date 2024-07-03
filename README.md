@@ -34,16 +34,16 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2024 - To: 01 July 2024
+From: 25 June 2024 - To: 02 July 2024
 
-Total Time: 29 hrs 16 mins
+Total Time: 28 hrs 59 mins
 
-Other         22 hrs 6 mins   ███████████████████░░░░░░   75.52 %
-sh            2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-Rust          1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-Markdown      1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-TOML          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-INI           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Other         22 hrs 3 mins   ███████████████████░░░░░░   76.11 %
+sh            2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+Rust          1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Markdown      1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+TOML          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+INI           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 Git Config    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 Bash          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 Makefile      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %

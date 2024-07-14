@@ -34,20 +34,20 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2024 - To: 12 July 2024
+From: 06 July 2024 - To: 13 July 2024
 
-Total Time: 37 hrs 23 mins
+Total Time: 37 hrs 30 mins
 
-Other      31 hrs 53 mins  █████████████████████▒░░░   85.29 %
-Rust       1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-sh         1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-INI        37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Bash       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Markdown   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-TOML       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other      33 hrs 33 mins  ██████████████████████▒░░   89.47 %
+sh         1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+INI        37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Bash       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Markdown   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+TOML       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Go         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 YAML       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 JSON       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Go         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Rust       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->

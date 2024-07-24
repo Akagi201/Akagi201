@@ -53,7 +53,3 @@ JSON       0 secs          ░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
-
-<a href="https://dly.to/lajulH68cRC"><img src="https://api.daily.dev/devcards/v2/0PgLIuTCuccboR3DWDI4I.png?type=wide&r=z7i" width="900" alt="Akagi201's Dev Card"/></a>
-
-<a href="https://www.codewars.com/users/Akagi201"><img alt="Akagi201's Codewars" src="https://www.codewars.com/users/Akagi201/badges/small"></a>

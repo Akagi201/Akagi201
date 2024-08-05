@@ -34,15 +34,15 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2024 - To: 03 August 2024
+From: 28 July 2024 - To: 04 August 2024
 
-Total Time: 25 hrs 13 mins
+Total Time: 24 hrs 37 mins
 
-Other      20 hrs 34 mins  ████████████████████▒░░░░   81.57 %
-Go         3 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-sh         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Solidity   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Rust       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other      20 hrs 5 mins   ████████████████████▒░░░░   81.57 %
+Go         3 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+sh         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Solidity   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Rust       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 Bash       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 Python     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %

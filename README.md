@@ -34,19 +34,19 @@ I like programming and keeping learning new technologies. [here](https://github.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2024 - To: 16 August 2024
+From: 10 August 2024 - To: 17 August 2024
 
-Total Time: 53 hrs 20 mins
+Total Time: 54 hrs 32 mins
 
-Other        36 hrs 10 mins  █████████████████░░░░░░░░   67.83 %
-Rust         6 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-sh           3 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Solidity     3 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Markdown     2 hrs 47 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-Go           55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-TypeScript   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other        36 hrs 35 mins  ████████████████▓░░░░░░░░   67.09 %
+Rust         6 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+sh           3 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Solidity     3 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Go           2 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Markdown     2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+TypeScript   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 YAML         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-TOML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TOML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 Text         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 

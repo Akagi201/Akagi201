@@ -8,6 +8,8 @@ on:
 jobs:
   update-snake:
     name: Snake Game
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     

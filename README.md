@@ -26,20 +26,20 @@ I am a Web3 hacker, started from 2017. I am focused on Web3 Infra and HFT tradin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2024 - To: 04 September 2024
+From: 29 August 2024 - To: 05 September 2024
 
-Total Time: 45 hrs
+Total Time: 45 hrs 56 mins
 
-Other      43 hrs 52 mins  ████████████████████████▒   97.47 %
-Markdown   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-sh         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-YAML       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Rust       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other      44 hrs 59 mins  ████████████████████████▒   97.94 %
+sh         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Markdown   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+YAML       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Rust       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 TOML       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Go         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-MDX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+MDX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

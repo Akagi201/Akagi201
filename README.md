@@ -26,15 +26,15 @@ I am a Web3 hacker, started from 2017. I am focused on Web3 Infra and HFT tradin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2024 - To: 27 December 2024
+From: 21 December 2024 - To: 28 December 2024
 
-Total Time: 36 hrs 9 mins
+Total Time: 36 hrs 13 mins
 
-Other              15 hrs 32 mins  ██████████▓░░░░░░░░░░░░░░   42.98 %
-Rust               12 hrs 33 mins  ████████▓░░░░░░░░░░░░░░░░   34.73 %
-sh                 2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Python             1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Markdown           1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Other              15 hrs 34 mins  ██████████▓░░░░░░░░░░░░░░   42.99 %
+Rust               12 hrs 35 mins  ████████▓░░░░░░░░░░░░░░░░   34.76 %
+sh                 2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Python             1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Markdown           1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
 TOML               40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 Go                 28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 INI                27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %

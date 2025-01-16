@@ -5,10 +5,9 @@ I am a Web3 hacker, started from 2017. I am focused on Web3 Infra and HFT tradin
 
 ## Now
 
-* Building high performance EVM, parallel EVM and fast statedb access.
-* Building a high performance MEV bot.
-* Building preconf EVM network for L1 and L2.
-* Building an AI SaaS product privately, used by myself, may or may not be public.
+* Working on Ethereum pre-confirmation protocol at [Luban](https://github.com/lu-bann).
+* My one person tech company [akjong](https://github.com/akjong), building MEV bot, and AI SaaS products.
+* A Grant-Driven organization [LongCipher](https://github.com/longcipher), building Web3 infras.
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/Akagi201/Akagi201/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Akagi201)
 

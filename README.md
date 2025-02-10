@@ -2,6 +2,7 @@
 [![Visitors](https://api.visitorbadge.io/api/daily?path=Akagi201%2FAkagi201&label=Visitors%20Today&countColor=%2337d67a)](https://visitorbadge.io/status?path=Akagi201%2FAkagi201)
 
 I am a Web3 hacker, started from 2017. I am focused on Web3 Infra and HFT trading.
+I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 
 ## Now
 

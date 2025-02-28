@@ -6,7 +6,6 @@ I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 
 ## Now
 
-* Working on Ethereum pre-confirmation protocol at [Luban](https://github.com/lu-bann).
 * My one person tech company [akjong](https://github.com/akjong), building MEV bot, and AI SaaS products.
 * A Grant-Driven organization [LongCipher](https://github.com/longcipher), building Web3 infras.
 

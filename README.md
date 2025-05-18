@@ -25,15 +25,15 @@ I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2025 - To: 16 May 2025
+From: 10 May 2025 - To: 17 May 2025
 
 Total Time: 16 hrs 32 mins
 
-Other        11 hrs 53 mins  ██████████████████░░░░░░░   71.83 %
-Markdown     1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Other        11 hrs 52 mins  ██████████████████░░░░░░░   71.83 %
+Markdown     1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
 TypeScript   1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
 Shell        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-sh           36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+sh           36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 Rust         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 TOML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 SSH Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %

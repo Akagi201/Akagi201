@@ -25,18 +25,18 @@ I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 10 June 2025
+From: 04 June 2025 - To: 11 June 2025
 
-Total Time: 11 hrs 54 mins
+Total Time: 13 hrs 5 mins
 
-Other              8 hrs 12 mins   █████████████████▒░░░░░░░   68.94 %
-Markdown           58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-TOML               47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-Rust               35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-sh                 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-YAML               26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-SRecode Template   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-JavaScript         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Other              9 hrs 23 mins   ██████████████████░░░░░░░   71.76 %
+Markdown           58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+TOML               47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Rust               35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+sh                 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+YAML               26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+SRecode Template   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+JavaScript         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 HTML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 

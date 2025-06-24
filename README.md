@@ -25,11 +25,19 @@ I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2025 - To: 22 June 2025
+From: 16 June 2025 - To: 23 June 2025
 
-Total Time: 5 hrs
+Total Time: 7 hrs 22 mins
 
-Other   5 hrs           █████████████████████████   100.00 %
+Other              6 hrs 24 mins   █████████████████████▓░░░   86.74 %
+TOML               21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Rust               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+sh                 12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+TypeScript         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+SRecode Template   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+JSON               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Git Config         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->

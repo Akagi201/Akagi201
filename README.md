@@ -25,19 +25,20 @@ I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 23 June 2025
+From: 17 June 2025 - To: 24 June 2025
 
-Total Time: 7 hrs 22 mins
+Total Time: 12 hrs 33 mins
 
-Other              6 hrs 24 mins   █████████████████████▓░░░   86.74 %
-TOML               21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Rust               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-sh                 12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-TypeScript         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-SRecode Template   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-JSON               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Git Config         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other              9 hrs 25 mins   ██████████████████▓░░░░░░   74.99 %
+TOML               55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+HTML               35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+sh                 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+SSH Config         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Rust               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+YAML               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+TypeScript         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+SRecode Template   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Markdown           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->

@@ -25,20 +25,20 @@ I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2025 - To: 12 July 2025
+From: 06 July 2025 - To: 13 July 2025
 
-Total Time: 71 hrs 31 mins
+Total Time: 71 hrs 7 mins
 
-Other           36 hrs 5 mins   ████████████▓░░░░░░░░░░░░   50.46 %
-Rust            12 hrs 55 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
-sh              10 hrs 4 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
-Markdown        3 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-TOML            2 hrs 52 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-SQL             2 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Solidity        1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Other           35 hrs          ████████████▒░░░░░░░░░░░░   49.22 %
+Rust            13 hrs 16 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+sh              10 hrs 29 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Markdown        3 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+TOML            2 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+SQL             2 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Solidity        1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 YAML            44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Bash            34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-TypeScript      33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Bash            34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+TypeScript      34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->

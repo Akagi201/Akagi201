@@ -25,20 +25,20 @@ I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2025 - To: 12 August 2025
+From: 06 August 2025 - To: 13 August 2025
 
-Total Time: 75 hrs 38 mins
+Total Time: 76 hrs 28 mins
 
-sh                         27 hrs 50 mins  █████████▒░░░░░░░░░░░░░░░   36.81 %
-Other                      19 hrs 16 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
-Markdown                   10 hrs 7 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-Rust                       7 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-TOML                       5 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-HTML                       1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Nushell                    1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Python                     35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-YAML                       30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Bash                       24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+sh                         27 hrs 19 mins  █████████░░░░░░░░░░░░░░░░   35.74 %
+Other                      19 hrs 2 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
+Markdown                   11 hrs 2 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+TOML                       7 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Rust                       6 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+HTML                       1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Nushell                    1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+YAML                       27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Python                     24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Bash                       23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->

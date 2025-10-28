@@ -25,15 +25,16 @@ I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-Total Time: 6 hrs 33 mins
+Total Time: 4 hrs 15 mins
 
-Other        4 hrs 33 mins   █████████████████▒░░░░░░░   69.53 %
-sh           51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-JSON         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-TypeScript   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Rust         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Other        1 hr 53 mins    ███████████░░░░░░░░░░░░░░   44.38 %
+sh           57 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
+TypeScript   31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+JSON         29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Rust         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Go           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->

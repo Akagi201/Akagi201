@@ -25,17 +25,17 @@ I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2025 - To: 04 November 2025
+From: 29 October 2025 - To: 05 November 2025
 
-Total Time: 5 hrs 51 mins
+Total Time: 8 hrs 11 mins
 
-Other        4 hrs 52 mins   ████████████████████▓░░░░   83.27 %
-sh           27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-Markdown     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Go           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-SSH Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Shell        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Public Key   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other        7 hrs 9 mins    █████████████████████▓░░░   87.32 %
+sh           31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Go           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+SSH Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Shell        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Public Key   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->

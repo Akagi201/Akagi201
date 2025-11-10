@@ -25,12 +25,12 @@ I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 02 November 2025 - To: 09 November 2025
 
 Total Time: 16 hrs 56 mins
 
-Other        10 hrs 45 mins  ████████████████░░░░░░░░░   63.45 %
-sh           3 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+Other        10 hrs 44 mins  ████████████████░░░░░░░░░   63.45 %
+sh           3 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
 Markdown     48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 TOML         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 Shell        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %

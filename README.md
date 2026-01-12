@@ -25,20 +25,20 @@ I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2026 - To: 10 January 2026
+From: 04 January 2026 - To: 11 January 2026
 
-Total Time: 71 hrs 37 mins
+Total Time: 66 hrs 3 mins
 
-sh                 27 hrs 53 mins  █████████▓░░░░░░░░░░░░░░░   38.94 %
-Other              17 hrs 29 mins  ██████░░░░░░░░░░░░░░░░░░░   24.42 %
-TOML               6 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-Markdown           6 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-Rust               5 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-Makefile           1 hr 54 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-JSON               1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Python             1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-TypeScript         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Git Config         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+sh           23 hrs 5 mins   ████████▓░░░░░░░░░░░░░░░░   34.96 %
+Other        15 hrs 49 mins  ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+Markdown     7 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+TOML         5 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Rust         4 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Makefile     3 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Git Config   1 hr 54 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+JSON         55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Python       53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+TypeScript   42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->

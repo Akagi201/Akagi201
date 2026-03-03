@@ -6,8 +6,7 @@ I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 
 ## Now
 
-* My one person tech company [akjong](https://github.com/akjong), building MEV bot, and AI SaaS products.
-* A Grant-Driven organization [LongCipher](https://github.com/longcipher), building Web3 infras.
+Building High performance AI-Native Payment platform and Trading Platform in [LongCipher](https://github.com/longcipher).
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/Akagi201/Akagi201/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Akagi201)
 

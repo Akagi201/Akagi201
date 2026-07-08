@@ -11,13 +11,6 @@ Building High performance AI-Native Payment platform and Trading Platform in [Lo
 [![github contribution grid snake animation](https://raw.githubusercontent.com/Akagi201/Akagi201/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Akagi201)
 
 <details>
-<summary>GitHub Stats</summary>
-  <a href="https://github.com/Akagi201"><img alt="Profile Detail" src="https://raw.githubusercontent.com/Akagi201/Akagi201/master/profile-summary-card-output/dracula/0-profile-details.svg" /></a>
-  <a href="https://github.com/Akagi201"><img alt="Github Stats" src="https://raw.githubusercontent.com/Akagi201/Akagi201/master/profile-summary-card-output/dracula/3-stats.svg" /></a>
-  <a href="https://github.com/Akagi201"><img alt="Lang By Commits" src="https://raw.githubusercontent.com/Akagi201/Akagi201/master/profile-summary-card-output/dracula/2-most-commit-language.svg" /></a>
-</details>
-
-<details>
 <summary>Wakatime Stats</summary>
 <br>
 

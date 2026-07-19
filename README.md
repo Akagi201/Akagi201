@@ -17,20 +17,20 @@ Building High performance AI-Native Payment platform and Trading Platform in [Lo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 July 2026 - To: 18 July 2026
+From: 12 July 2026 - To: 19 July 2026
 
-Total Time: 93 hrs 55 mins
+Total Time: 92 hrs 16 mins
 
-Other          29 hrs 6 mins         ███████▓░░░░░░░░░░░░░░░░░   30.99 %
-Rust           26 hrs 4 mins         ███████░░░░░░░░░░░░░░░░░░   27.76 %
-sh             18 hrs 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.54 %
-TOML           8 hrs 8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Markdown       7 hrs 22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-TypeScript     1 hr 17 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-JSON           1 hr 4 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Gherkin        54 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Python         28 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-INI            16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Other          32 hrs 14 mins        ████████▓░░░░░░░░░░░░░░░░   34.95 %
+Rust           23 hrs 28 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
+sh             18 hrs 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.85 %
+TOML           7 hrs 50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Markdown       5 hrs 41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+JSON           1 hr 3 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+TypeScript     1 hr                  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Gherkin        46 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+C++            21 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Python         18 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->

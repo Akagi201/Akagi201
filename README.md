@@ -16,8 +16,10 @@ Building at [LongCipher](https://github.com/longcipher) — AI-native payment & 
 - **[hpx](https://github.com/longcipher/hpx)** — High-performance HTTP client with Tower middleware
 - **[Quantus Miner Perf](https://github.com/longcipher/quantus-miner-perf)** — Optimized High-performance Rust Quantus miner
 - **[Quantus Pool](https://quantus-pool.longcipher.com/)** — Optimized Rust high-performance mining pool
+- **[Unify](https://unify.longcipher.com/)** — White-label perps DEX: offchain match engine + onchain settlement
+- **[PonDex](https://pondex.longcipher.com/)** — White-label UniswapV4 Launchpad
 
-<sub>open-for-hire · available-for-hire · looking-for-work · quant-developer · hft · low-latency · rust · market-making · arbitrage · mining-pool</sub>
+<sub>open-for-hire · available-for-hire · looking-for-work · quant-developer · hft · low-latency · rust · market-making · arbitrage · mining-pool · perps-dex · match-engine · uniswap-v4 · launchpad</sub>
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/Akagi201/Akagi201/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Akagi201)
 

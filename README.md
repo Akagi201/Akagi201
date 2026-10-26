@@ -1,8 +1,6 @@
 <!-- markdownlint-disable MD041 MD010 MD033 -->
 [![Visitors](https://api.visitorbadge.io/api/daily?path=Akagi201%2FAkagi201&label=Visitors%20Today&countColor=%2337d67a)](https://visitorbadge.io/status?path=Akagi201%2FAkagi201)
 
-> 🟢 **Open for hire — Remote Quant Developer | Rust · HFT · Low-latency Trading** · Hangzhou, China (UTC+8)
-
 I am a Web3 hacker, started from 2017. I am focused on Web3 Infra and HFT trading.
 I work as an [RSE](https://us-rse.org/about/what-is-an-rse/).
 
@@ -19,7 +17,7 @@ Building at [LongCipher](https://github.com/longcipher) — AI-native payment & 
 - **[Unify](https://unify.longcipher.com/)** — White-label perps DEX: offchain match engine + onchain settlement
 - **[PonDex](https://pondex.longcipher.com/)** — White-label UniswapV4 Launchpad
 
-<sub>open-for-hire · available-for-hire · looking-for-work · quant-developer · hft · low-latency · rust · market-making · arbitrage · mining-pool · perps-dex · match-engine · uniswap-v4 · launchpad</sub>
+<sub>quant-developer · hft · low-latency · rust · market-making · arbitrage · mining-pool · perps-dex · match-engine · uniswap-v4 · launchpad</sub>
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/Akagi201/Akagi201/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Akagi201)
 
